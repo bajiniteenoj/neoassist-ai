@@ -23,10 +23,7 @@ We wanted to build a simple version of a JARVIS-like AI assistant using cloud te
 User input → AI model (Vertex AI) → processed response → output shown to user.
 
 📸 Project Preview
-
-(Add your thumbnail image here later)
-
-![NeoAssist AI](your-image-file.png)
+![NeoAssist AI](https://img.sanishtech.com/u/cd6a782a13dde7d99dba831f931ccad9.png)
 
 🚀 Future Improvements
 1. Voice assistant support
